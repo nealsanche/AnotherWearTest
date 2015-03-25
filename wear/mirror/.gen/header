@@ -1,0 +1,8 @@
+#Automatically generated header file. Editing this file may cause problems.
+#Tue Mar 24 17:36:05 MDT 2015
+dexState=NO_CHANGE
+serverVersion=sandbox-beta-4
+version=31
+package=org.nsdev.weartest
+serverVersionCode=1058
+appTheme=@android\:style/Theme.DeviceDefault
