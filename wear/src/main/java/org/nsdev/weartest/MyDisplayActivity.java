@@ -22,9 +22,9 @@ public class MyDisplayActivity extends Activity {
             public void onClick(View v) {
                 Intent i = new Intent(getApplicationContext(), InnerActivity.class);
 
-                // Most important line is here
+                // The most important line is here
                 i.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
-                
+
                 startActivity(i);
             }
         });
